@@ -2,8 +2,6 @@
  *  Patricia Figueroa
  *  CSCI 2525 Assembly Language PA#1
  *  Write a C++ function that receives an unsigned integer and returns its binary value.
- *  This code will be submitted on Canvas and run in the Visual Studios environment.
- *  Remember to comment your code.
  *  Do not use any using statements (i.e. using namespace std).
  */
 
